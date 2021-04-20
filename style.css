@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse:collapse;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.open p {
+    font-size: 1.1em;
+    padding: 0 6em 0 4em;
+}
+
+.open ul {
+    padding: 0 0 0 9em;
+}
+
+.zag {
+    text-align: center;
+    font-weight: bold;
+    height: 3em;
+}
+
+.main  {
+    padding: 0 8em 0 4em;
+}
+
+.shifr {
+    padding: 0 10em 0 16em;
+    margin-bottom: 8em;
+}
+
+.BP {
+    text-indent: 1.5em;
+}
+
+ol {
+    padding-left: 10em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+.page-footer {
+    right: 0;
+    bottom: 0;
+    background-color:lightcyan;
+    padding: 25px 0;
+    width: 100%;
+}
+
+.page-footer .conteiner {
+    padding: 0 16px;
+    max-width: 1850px;
+    text-align: right;
+}
+
+.page-footer p {
+    display: inline;
+    margin: 0 1em;
+}
